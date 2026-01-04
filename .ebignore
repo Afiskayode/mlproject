@@ -1,0 +1,8 @@
+.venv/
+notebook/
+__pycache__/
+.git/
+*.pyc
+catboost_info/
+inventory.csv
+data/
